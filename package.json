@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jojoarianto/API.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Joko Irianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojoarianto/API/issues"
+  },
+  "homepage": "https://github.com/jojoarianto/API#readme"
+}
